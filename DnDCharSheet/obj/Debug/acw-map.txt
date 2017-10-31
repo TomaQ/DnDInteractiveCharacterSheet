@@ -1,0 +1,4 @@
+DnDCharSheet.MainActivity, DnDCharSheet;md55cd263181feeacdf95b1de6d8bf51397.MainActivity
+DnDCharSheet.MainActivity, DnDCharSheet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55cd263181feeacdf95b1de6d8bf51397.MainActivity
+DnDCharSheet.MainActivity;md55cd263181feeacdf95b1de6d8bf51397.MainActivity
+dndcharsheet.MainActivity;md55cd263181feeacdf95b1de6d8bf51397.MainActivity

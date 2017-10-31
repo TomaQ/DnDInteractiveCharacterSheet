@@ -1,0 +1,15 @@
+C:\repos\DnDCharSheet\DnDCharSheet\bin\Debug\DnDCharSheet.dll
+C:\repos\DnDCharSheet\DnDCharSheet\bin\Debug\DnDCharSheet.pdb
+C:\repos\DnDCharSheet\DnDCharSheet\bin\Debug\DnDCharSheet.DnDCharSheet.apk
+C:\repos\DnDCharSheet\DnDCharSheet\bin\Debug\DnDCharSheet.DnDCharSheet-Signed.apk
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\DnDCharSheet.csprojResolveAssemblyReference.cache
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\DnDCharSheet.csproj.CoreCompileInputs.cache
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\DnDCharSheet.dll
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\DnDCharSheet.pdb
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\android\bin\DnDCharSheet.DnDCharSheet.apk
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\res\layout\main.xml
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\res\values\strings.xml
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\R.cs.flag
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\uploadflags.txt
+C:\repos\DnDCharSheet\DnDCharSheet\bin\Debug\DnDCharSheet.dll.mdb
+C:\repos\DnDCharSheet\DnDCharSheet\obj\Debug\android\assets\DnDCharSheet.dll.mdb
