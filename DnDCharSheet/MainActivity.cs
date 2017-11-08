@@ -13,21 +13,13 @@ namespace DnDCharSheet
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            
             SetContentView(Resource.Layout.Main);
 
+            //check for read and write permissions
             Utility.CheckPermissions(this);
-            try
-            {
-                string databasePath = Path.Combine(Utility.STORAGE_PATH, "db.db");
-                var db = new SQLite.SQLiteConnection(databasePath);
-                db.CreateTable<PersonalCharacter>();
-                System.Diagnostics.Debug.WriteLine("=======Wrote to: " + databasePath);
-            }
-            catch(Exception ex)
-            {
-                Utility.Log(ex);
-            }
+
+            //check for existing characters
+            
         }
     }
 }

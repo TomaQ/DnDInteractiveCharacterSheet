@@ -101,8 +101,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\CharacterJob.cs" />
+    <Compile Include="Classes\DBHelper.cs" />
+    <Compile Include="Classes\Equipment.cs" />
     <Compile Include="Classes\PersonalCharacter.cs" />
+    <Compile Include="Classes\Race.cs" />
+    <Compile Include="Classes\Spell.cs" />
     <Compile Include="Classes\Utility.cs" />
+    <Compile Include="Classes\Weapon.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

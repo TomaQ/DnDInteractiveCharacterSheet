@@ -11,8 +11,6 @@ namespace DnDCharSheet.Classes
 {
     public class Utility
     {
-        public static string STORAGE_PATH = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
-
         public static void Log(Exception ex)
         {
             string errorMessage = "Error: " + ex.Message + (ex.InnerException != null ? " Inner: " + ex.InnerException.Message : "");
